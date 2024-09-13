@@ -11,7 +11,7 @@ using SimpleJSON;
 using UnityEditor;
 using UnityEngine;
 
-namespace OnemtEditor.Tools.UIWidgetRepository
+namespace Editor.Tools.UIWidgetRepository
 {
     public class UIWidgetRepositoryConfiguration:IDisposable
     {

@@ -14,7 +14,7 @@ using UnityEngine;
 using UnityEngine.Experimental.Rendering;
 using Object = UnityEngine.Object;
 
-namespace OnemtEditor.Tools.UIWidgetRepository
+namespace Editor.Tools.UIWidgetRepository
 {
     public class UIWidgetRepositoryWindow : EditorWindow
     {

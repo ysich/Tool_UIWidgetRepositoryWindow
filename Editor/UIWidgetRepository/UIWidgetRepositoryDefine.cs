@@ -4,7 +4,7 @@
 -- 概述:
 ---------------------------------------------------------------------------------------*/
 
-namespace OnemtEditor.Tools.UIWidgetRepository
+namespace Editor.Tools.UIWidgetRepository
 {
     public class UIWidgetRepositoryDefine
     {

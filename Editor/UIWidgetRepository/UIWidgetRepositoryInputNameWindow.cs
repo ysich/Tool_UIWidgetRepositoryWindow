@@ -10,7 +10,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEngine.UI;
 
-namespace OnemtEditor.Tools.UIWidgetRepository
+namespace Editor.Tools.UIWidgetRepository
 {
     public class UIWidgetRepositoryInputNameWindow:EditorWindow
     {

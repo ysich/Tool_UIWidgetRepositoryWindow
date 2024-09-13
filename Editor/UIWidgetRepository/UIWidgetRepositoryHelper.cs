@@ -13,7 +13,7 @@ using SimpleJSON;
 using UnityEditor.SceneManagement;
 using UnityEngine.UI;
 
-namespace OnemtEditor.Tools.UIWidgetRepository
+namespace Editor.Tools.UIWidgetRepository
 {
     public static class UIWidgetRepositoryHelper
     {
